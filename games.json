@@ -168,5 +168,20 @@
     "title": "Iron Snout",
     "url": "https://roqard.github.io/IronSnout/",
     "thumbnail": "ironsnout.webp"
+  },
+  {
+    "title": "Zombie Rush",
+    "url": "https://offline-html-games-pack-three.vercel.app/offline/zombierush.html",
+    "thumbnail": "zombierush.webp"
+  },
+  {
+    "title": "Flappy Bird",
+    "url": "https://offline-html-games-pack-three.vercel.app/offline/flappybird.html",
+    "thumbnail": "flappybird.webp"
+  },
+  {
+    "title": "Iron Snout",
+    "url": "https://roqard.github.io/IronSnout/",
+    "thumbnail": "ironsnout.webp"
   }
 ]
